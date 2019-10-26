@@ -1,0 +1,4 @@
+/home/guest/repos/lera_lab4/CMakeFiles/rebuild_cache.dir
+/home/guest/repos/lera_lab4/CMakeFiles/message.dir
+/home/guest/repos/lera_lab4/CMakeFiles/edit_cache.dir
+/home/guest/repos/lera_lab4/CMakeFiles/main.dir
